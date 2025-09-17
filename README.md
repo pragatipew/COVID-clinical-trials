@@ -3,10 +3,14 @@ This Power BI dashboard provides an interactive and comprehensive overview of cl
 
 Key Data and Metrics
 The dashboard likely includes visualizations and data points related to:
-Trial Statistics: The total number of trials, the number of active, completed, or suspended trials, and the distribution of trials by phase (e.g., Phase 1, 2, 3).
-Geographic Distribution: A map visualization showing the number of trials by country or region, allowing for a geographic analysis of where research is being conducted.
-Intervention Types: Breakdowns of trials by the type of intervention, such as vaccines, antivirals, or other therapeutic treatments.
-Sponsor Information: Details on the organizations funding the trials, including pharmaceutical companies, academic institutions, or government bodies.
+
+1. Trial Statistics: The total number of trials, the number of active, completed, or suspended trials, and the distribution of trials by phase (e.g., Phase 1, 2, 3). 
+
+2. Geographic Distribution: A map visualization showing the number of trials by country or region, allowing for a geographic analysis of where research is being conducted.
+  
+3. Intervention Types: Breakdowns of trials by the type of intervention, such as vaccines, antivirals, or other therapeutic treatments.
+  
+4. Sponsor Information: Details on the organizations funding the trials, including pharmaceutical companies, academic institutions, or government bodies.
 
 Interactive Features
 The dashboard is built with interactivity in mind, allowing users to:
